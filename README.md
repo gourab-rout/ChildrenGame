@@ -26,7 +26,7 @@ Clone the project from GitHub using the below command.
 git clone https://github.com/gourab-rout/ChildrenGame.git
 ```
 
-Please run the below mvn command from the directory where pom.xml resides.
+Change the directory to ChildrenGame. Please run the below mvn command from the directory where pom.xml resides.
 ```
 mvn install -s ./settings.xml
 ```
